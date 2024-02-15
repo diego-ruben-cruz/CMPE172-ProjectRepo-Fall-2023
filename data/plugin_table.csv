@@ -1,0 +1,126 @@
+pluginID,Name,devID,pluginType,pluginSubType,isFree,hasLicense
+1,Pro-Q 3,12,FX,EQ,FALSE,TRUE
+2,Pro-R,12,FX,Reverb,FALSE,TRUE
+3,Pro-L 2,12,FX,Dynamics,FALSE,TRUE
+4,Pro-C 2,12,FX,Dynamics,FALSE,TRUE
+5,Pro-MB,12,FX,Dynamics,FALSE,TRUE
+6,Pro-DS,12,FX,Dynamics,FALSE,TRUE
+7,Pro-G,12,FX,Gate,FALSE,TRUE
+8,Saturn 2,12,FX,Distortion,FALSE,TRUE
+9,Timeless 3,12,FX,Delay,FALSE,TRUE
+10,PhasePlant,16,Generator,Synthesizer,FALSE,TRUE
+11,Multipass,16,FX,Host,FALSE,TRUE
+12,SnapHeap,16,FX,Host,TRUE,FALSE
+13,Bitcrush,16,FX,Distortion,FALSE,TRUE
+14,CarveEQ,16,FX,EQ,FALSE,TRUE
+15,Comb Filter,16,FX,Filter,FALSE,TRUE
+16,Compressor,16,FX,Dynamics,FALSE,TRUE
+17,Convolver,16,FX,Reverb,FALSE,TRUE
+18,Disperser,16,FX,Filter,FALSE,TRUE
+19,Distortion,16,FX,Distortion,FALSE,TRUE
+20,Dynamics,16,FX,Dynamics,FALSE,TRUE
+21,Ensemble,16,FX,Chorus,FALSE,TRUE
+22,Faturator,16,FX,Distortion,FALSE,TRUE
+23,Filter,16,FX,Filter,FALSE,TRUE
+24,Flanger,16,FX,Filter,FALSE,TRUE
+25,Formant Filter,16,FX,Filter,FALSE,TRUE
+26,Gate,16,FX,Gate,FALSE,TRUE
+27,Haas,16,FX,Imaging,FALSE,TRUE
+28,Ladder Filter,16,FX,Filter,FALSE,TRUE
+29,Nonlinear Filter,16,FX,Filter,FALSE,TRUE
+30,Phase Distortion,16,FX,Distortion,FALSE,TRUE
+31,Phaser,16,FX,Filter,FALSE,TRUE
+32,Pitch Shifter,16,FX,Pitch Shift,FALSE,TRUE
+33,Resonator,16,FX,Misc,FALSE,TRUE
+34,Reverb,16,FX,Reverb,FALSE,TRUE
+35,Reverser,16,FX,Misc,FALSE,TRUE
+36,Ring Mod,16,FX,Modulation,FALSE,TRUE
+37,Slice EQ,16,FX,EQ,FALSE,TRUE
+38,Tape Stop,16,FX,Misc,FALSE,TRUE
+39,Trance Gate,16,FX,Gate,FALSE,TRUE
+40,Transient Shaper,16,FX,Dynamics,FALSE,TRUE
+41,3-Band EQ,16,FX,EQ,TRUE,FALSE
+42,Chorus,16,FX,Chorus,TRUE,FALSE
+43,Delay,16,FX,Delay,TRUE,FALSE
+44,Gain,16,FX,Utility,TRUE,FALSE
+45,Limiter,16,FX,Dynamics,TRUE,FALSE
+46,Stereo,16,FX,Imaging,TRUE,FALSE
+47,ValhallaDelay,31,FX,Delay,FALSE,TRUE
+48,Valhalla VintageVerb,31,FX,Reverb,FALSE,TRUE
+49,ValhallaRoom,31,FX,Reverb,FALSE,TRUE
+50,ValhallaPlate,31,FX,Reverb,FALSE,TRUE
+51,ValhallaShimmer,31,FX,Reverb,FALSE,TRUE
+52,Valhalla UberMod,31,FX,Chorus,FALSE,TRUE
+53,Valhalla SpaceModulator,31,FX,Filter,TRUE,FALSE
+54,Valhalla FreqEcho,31,FX,Delay,TRUE,FALSE
+55,Valhalla SuperMassive,31,FX,Reverb,TRUE,FALSE
+56,Podolski,30,Generator,Synthesizer,TRUE,FALSE
+57,TAL-BassLine,27,Generator,Synthesizer,TRUE,FALSE
+58,Synth1,10,Generator,Synthesizer,TRUE,FALSE
+59,Dexed,19,Generator,Synthesizer,TRUE,FALSE
+60,VCV Rack,32,Generator,Synthesizer,TRUE,FALSE
+61,TyrellN6,30,Generator,Synthesizer,TRUE,FALSE
+62,Zebralette,30,Generator,Synthesizer,TRUE,FALSE
+63,Papu,24,Generator,Synthesizer,TRUE,FALSE
+64,MAutoPitch,18,FX,Pitch Correction,TRUE,FALSE
+65,GSnap,14,FX,Pitch Correction,TRUE,FALSE
+66,VOLOCO,33,FX,Pitch Correction,TRUE,FALSE
+67,Delay Lama,22,Generator,Synthesizer,TRUE,FALSE
+68,BX_Rockrack V3 Player,21,FX,Distortion,TRUE,TRUE
+69,Ample Guitar M Lite,2,Generator,ROMpler,TRUE,FALSE
+70,Ample Bass P Lite 2,2,Generator,ROMpler,TRUE,FALSE
+71,Keyzone Classic,4,Generator,ROMpler,TRUE,FALSE
+72,LABS Piano,26,Generator,ROMpler,TRUE,FALSE
+73,TapeDelay,8,FX,Delay,TRUE,FALSE
+74,TAL Reverb 4,27,FX,Reverb,TRUE,FALSE
+75,MConvolutionEZ,18,FX,Reverb,TRUE,FALSE
+76,OldSkoolVerb,34,FX,Reverb,TRUE,FALSE
+77,Fresh Air,23,FX,Misc,TRUE,FALSE
+78,MEqualizer,18,FX,EQ,TRUE,FALSE
+79,PanCake II,5,FX,Modulation,TRUE,FALSE
+80,MFlanger,18,FX,Filter,TRUE,FALSE
+81,MPhaser,18,FX,Filter,TRUE,FALSE
+82,MRingModulator,18,FX,Modulation,TRUE,FALSE
+83,MFreqShifter,18,FX,Misc,TRUE,FALSE
+84,MTremolo,18,FX,Modulation,TRUE,FALSE
+85,MVibrato,18,FX,Pitch Shift,TRUE,FALSE
+86,TAL-Vocoder,27,FX,Misc,TRUE,FALSE
+87,MComb,18,FX,Filter,TRUE,FALSE
+88,MBandPass,18,FX,Filter,TRUE,FALSE
+89,BX Cleansweep V2,21,FX,Filter,TRUE,TRUE
+90,Niveau Filter,21,FX,Filter,TRUE,TRUE
+91,MAutoPan,18,FX,Modulation,TRUE,FALSE
+92,SPAN,34,FX,Monitoring,TRUE,FALSE
+93,Rough Rider 3,3,FX,Dynamics,TRUE,FALSE
+94,MCompressor,18,FX,Dynamics,TRUE,FALSE
+95,OTT,35,FX,Dynamics,TRUE,FALSE
+96,ADHD Leveling Tool,1,FX,Dynamics,TRUE,FALSE
+97,MSaturator,18,FX,Distortion,TRUE,FALSE
+98,MBitFun,18,FX,Distortion,TRUE,FALSE
+99,CamelCrusher,6,FX,Distortion,TRUE,FALSE
+100,Delta Modulator,35,FX,Distortion,TRUE,FALSE
+101,8 Bit Shaper,35,FX,Distortion,TRUE,FALSE
+102,Glitch,11,FX,Host,TRUE,FALSE
+103,Bitter Sweet V3,13,FX,Dynamics,TRUE,FALSE
+104,Temper,9,FX,Dynamics,TRUE,FALSE
+105,MWaveFolder,18,FX,Distortion,TRUE,FALSE
+106,GClip,14,FX,Distortion,TRUE,FALSE
+107,Loudness Meter II,36,FX,Monitoring,TRUE,FALSE
+108,Loudness Meter II Pro,36,FX,Monitoring,FALSE,TRUE
+109,Melodyne Essential,7,FX,Pitch Correction,FALSE,TRUE
+110,Ozone Imager II,15,FX,Imaging,TRUE,TRUE
+111,Vocal Doubler,15,FX,Misc,TRUE,TRUE
+112,Vinyl,15,FX,Distortion,TRUE,TRUE
+113,Ozone 9 Advanced,15,FX,Mastering,FALSE,TRUE
+114,Saturation Knob,25,FX,Distortion,TRUE,TRUE
+115,TDR Molotok,28,FX,Dynamics,TRUE,FALSE
+116,TDR NOVA,28,FX,EQ,TRUE,FALSE
+117,TDR VOS SlickEQ,28,FX,EQ,TRUE,FALSE
+118,TDR Kotelnikov,28,FX,Dynamics,TRUE,FALSE
+119,VladG Limiter no.6,28,FX,Dynamics,TRUE,FALSE
+120,Krush,29,FX,Distortion,TRUE,FALSE
+121,Correlometer,34,FX,Monitoring,TRUE,FALSE
+122,Sforzando,20,Generator,ROMpler,TRUE,FALSE
+123,Vital,17,Generator,Synthesizer,TRUE,FALSE
+124,LABS,26,Generator,ROMpler,TRUE,FALSE
+125,Serum,35,Generator,Synthesizer,FALSE,TRUE

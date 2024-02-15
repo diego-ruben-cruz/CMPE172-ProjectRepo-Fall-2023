@@ -1,0 +1,10 @@
+pluginFormat,filePath,sys_disk,bits
+VST2,Program Files (x86)\Steinberg\VstPlugins\,C,32
+VST2,Program Files\Steinberg\VstPlugins\,C,64
+VST2,Program Files (x86)\VstPlugins\,C,32
+VST2,Program Files\VstPlugins\,C,64
+VST2,Program Files\Common Files\VST2\,C,64
+VST2,Media Creation\Audio Production\Plugins\32 Bit,G,32
+VST2,Media Creation\Audio Production\Plugins\64 Bit,G,64
+VST3,Program Files (x86)\Common Files\VST3\,C,32
+VST3,Program Files\Common Files\VST3\,C,64

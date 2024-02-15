@@ -1,0 +1,43 @@
+devName,devID,web_address,devCountry,filename_prefix
+ADHD,1,https://audiotools.se/about/,SWE,ADHD
+Ample Sound,2,https://www.amplesound.net/en/index.asp,CHN,AMPLE
+Audio Damage,3,https://www.audiodamage.com/,USA,AD
+Bitsonic Audio,4,https://vstplug-ins.com/index.html,HUN,BITSONIC
+CableGuys,5,https://www.cableguys.com/,GER,CB
+Camel Audio,6,NULL,NULL,CAMEL
+Celemony,7,https://www.celemony.com/en/start,GER,CEL
+ConcreteFX,8,NULL,NULL,CONC
+Creative Intent,9,https://www.creativeintent.co/,GBR,CI
+Daichi Laboratory,10,https://daichilab.sakura.ne.jp/Synthesizer/index.html,JPN,DAICHI
+dblue,11,https://illformed.org/,GBR,DBLUE
+FabFilter,12,https://www.fabfilter.com/,NLD,FF
+Flux,13,https://www.flux.audio/,FRA,FLUX
+GVST,14,https://www.gvst.co.uk/,GBR,G
+iZotope,15,https://www.izotope.com/,USA,IZOTOPE
+Kilohearts,16,https://kilohearts.com/,CHE,KHS
+Matt Tytel,17,https://tytel.org/,USA,TYTEL
+Melda Production,18,https://www.meldaproduction.com/,CZE,MELDA
+Pascal Gauthier,19,https://github.com/asb2m10,CAN,GAUTH
+Plogue,20,https://www.plogue.com/,CAN,PLOGUE
+Plugin Alliance,21,https://www.plugin-alliance.com/,USA,PA
+Singing Monk,22,http://www.audionerdz.com/,NLD,SM
+Slate Digital,23,https://slatedigital.com/,USA,SLATE
+SocaLabs,24,https://socalabs.com/,NULL,SL
+Softube,25,https://www.softube.com/,SWE,SOFTUBE
+Spitfire Audio,26,https://www.spitfireaudio.com/,GBR,SPITFIRE
+TAL,27,https://tal-software.com/,CHE,TAL
+Tokyo Dawn Records,28,https://www.tokyodawn.net/tokyo-dawn-labs/,GER,TDR
+Tritik,29,https://www.tritik.com/,FRA,TRITIK
+u-he,30,https://u-he.com/,GER,UHE
+Valhalla DSP,31,https://valhalladsp.com/,USA,VAL
+VCV Rack,32,https://vcvrack.com/,USA,VCV
+VOLOCO,33,https://resonantcavity.com/,USA,VOL
+Voxengo,34,https://www.voxengo.com/,RUS,VOX
+XFER,35,https://xferrecords.com/,USA,XFER
+Youlean,36,https://youlean.co/,GBR,YOU
+Image-Line,37,https://www.image-line.com/,BEL,FRUITY
+Ableton,38,https://www.ableton.com/en/,GER,GER
+PreSonus,39,https://presonus.com/en,USA,PS
+Cockos,40,https://www.reaper.fm/,USA,COCK
+Steinberg,41,https://www.steinberg.net/,GER,STEIN
+Avid,42,https://www.avid.com/pro-tools/,USA,AVID
